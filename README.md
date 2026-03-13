@@ -26,7 +26,7 @@ Key columns include:
 - Geographic mapping of precipitation events across the US  
 
 ---
-## Dashboard
+## Power BI Dashboard
 ![Dashboard](powerbi_dashboard/weather_dashboard.png)
 
 ---
